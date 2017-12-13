@@ -42,7 +42,7 @@ brew cask install xquartz
 # brew install nmap
 # brew install pngcheck
 # brew install xpdf  # Note: Instead of xpdf, let's try poppler.
-brew install poppler
+#brew install poppler
 
 # Install modern Python for development
 brew install python
@@ -54,6 +54,7 @@ brew install git
 brew install htop
 brew install httpie
 brew install ssh-copy-id
+brew install the_silver_searcher
 brew install tree
 brew install jq
 brew install wget
@@ -66,25 +67,25 @@ brew cask install google-chrome
 brew cask install slack
 
 # development
-brew cask install docker
+#brew cask install docker
 brew cask install iterm2
-brew cask install pycharm-ce
-brew cask install sublime-text
+#brew cask install pycharm-ce
+#brew cask install sublime-text
 
 ## media
-brew cask install handbrake
-brew cask install imagealpha
-brew cask install imageoptim
-brew cask install inkscape
-brew cask install vlc
+#brew cask install handbrake
+#brew cask install imagealpha
+#brew cask install imageoptim
+#brew cask install inkscape
+#brew cask install vlc
 
 # misc
-brew cask install dnscrypt
+#brew cask install dnscrypt
 brew cask install flux
 brew cask install osxfuse
 brew cask install spectacle
 brew cask install the-unarchiver
-brew cask install veracrypt
+#brew cask install veracrypt
 brew cask install yujitach-menumeters
 
 # "nerd fonts" for extended glyphs in terminals
